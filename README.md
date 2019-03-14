@@ -24,4 +24,4 @@ You'll get a coverage report logged to the console and you can also open `covera
 
     $ npm start
 
-...although this doesn't really do anything.
+...although this doesn't really do anything in this template. You need to fill that in.
