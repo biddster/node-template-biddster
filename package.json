@@ -6,7 +6,7 @@
     "scripts": {
         "start": "node index.js",
         "test": "nyc --reporter=html --reporter=text node_modules/.bin/mocha -R spec ./test/**.js",
-        "update-dependencies": "./node_modules/.bin/ncu -a && npm install"
+        "update-dependencies": "./node_modules/.bin/ncu -u && npm install"
     },
     "author": "@biddster",
     "license": "ISC",
